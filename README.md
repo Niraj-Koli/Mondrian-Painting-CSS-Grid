@@ -1,4 +1,4 @@
-# MondrianPainting-CSSGrid
+# Mondrian-Painting-CSS-Grid
 
 Mondrian Painting Using CSS Grid Layout
 
